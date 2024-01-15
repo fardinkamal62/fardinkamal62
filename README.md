@@ -33,7 +33,7 @@ My key area of expertise:
 
 - **🖥 FrontEnd**
   - **📜 Languages**: `JavaScript` `HTML` `CSS`
-  - **🔬 Frameworks**: `React` `Next.js` `Gatsby` `Redux` `Bootstrap`
+  - **🔬 Frameworks**: `React` `Next.js` `Gatsby` `Redux` `Bootstrap` `Tailwind CSS`
 - **🗄️ BackEnd**
   - **📜 Languages**: `JavaScript` `TypeScript` `PHP`
   - **🔭 Frameworks**: `Node.js` `Express.js`
@@ -44,19 +44,12 @@ My key area of expertise:
   - **📁 Version control**: `Git` 
 
 ### Soft Skills
-- **👨‍💻 Leadership**: Leading teams of tech & non-tech people
-- **📝 Documentation**: Writing technical & non-technical documents
-- **📊 Project Management**: Managing projects or products
-- **📞 Communication**: Communicating with stakeholders & C-level executives
-- **👦 Mentorship**: Mentoring junior developers
-- **📢 Public Speaking**: Speaking in front of a large audience
-
-## What am I learning?
-- **📜 Programming Languages**
-  - `Go`
-- **🔬 Frameworks**
-  - `Next.js`
-  - `Tailwind CSS`
+- **👨‍💻 Leadership**: Lead 3 teams of 10 tech & non-tech people
+- **📝 Documentation**: Wrote technical & non-technical documents for almost all of the projects
+- **📊 Project Management**: Managed 5+ projects
+- **📞 Communication**: Communicating with stakeholders & C-level executives (CEO, CTO)
+- **👦 Mentorship**: Mentored 3 junior developers
+- **📢 Public Speaking**
 
 ## Reach out to me
 - [LinkedIn](https://www.linkedin.com/in/fardinkamal62/) 👨‍💼
