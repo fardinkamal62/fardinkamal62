@@ -11,7 +11,7 @@ Most importantly, Batman fan 🦇
 
 ## Who am I?
 - Student of Computer Science & Engineering at [Dhaka International University](https://diu.ac) 🎓
-- Have a year of experience in the Software industry 👨‍💻
+- Have 2 years of experience in the Software industry 👨‍💻
 - Developed products for ed-tech, career growth and sustainability business domains in startups 🚀
 
 
@@ -27,21 +27,24 @@ My key area of expertise:
 - Designing wireframes, flow diagrams, and database schemas
 - Leading teams of tech & non-tech people
 - Managing projects
+- Learning new concepts
 
 ## Skills I possess
 ### Hard Skills
 
 - **🖥 FrontEnd**
   - **📜 Languages**: `JavaScript` `HTML` `CSS`
-  - **🔬 Frameworks**: `React` `Next.js` `Gatsby` `Redux` `Bootstrap` `Tailwind CSS`
+  - **🔬 Frameworks**: `React` `Next.js` `Redux` `Bootstrap` `Tailwind CSS`
 - **🗄️ BackEnd**
-  - **📜 Languages**: `JavaScript` `TypeScript` `PHP`
+  - **📜 Languages**: `JavaScript` `PHP`
   - **🔭 Frameworks**: `Node.js` `Express.js`
   - **💾 Databases**: `MongoDB` `MySQL`
   - **🔌 Communication Protocols**: `REST` `WebSocket`
 - **🎡 Software development ecosystem**
   - **📦 Package managers**: `npm`
-  - **📁 Version control**: `Git` 
+  - **📁 Version control**: `Git`
+- **Other**
+  - **📜 Languages**: `Go` `Java`
 
 ### Soft Skills
 - **👨‍💻 Leadership**: Lead 3 teams of 10 tech & non-tech people
