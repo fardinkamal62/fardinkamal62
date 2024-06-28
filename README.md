@@ -47,11 +47,11 @@ My key area of expertise:
   - **📜 Languages**: `Go` `Java`
 
 ### Soft Skills
-- **👨‍💻 Leadership**: Lead 3 teams of 10 tech & non-tech people
+- **👨‍💻 Leadership**: Lead 4 teams of 10 tech & non-tech people
 - **📝 Documentation**: Wrote technical & non-technical documents for almost all of the projects
-- **📊 Project Management**: Managed 5+ projects
+- **📊 Project Management**: Managed ~15 projects
 - **📞 Communication**: Communicating with stakeholders & C-level executives (CEO, CTO)
-- **👦 Mentorship**: Mentored 3 junior developers
+- **👦 Mentorship**: Mentored 9 junior developers
 - **📢 Public Speaking**
 
 ## Reach out to me
