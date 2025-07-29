@@ -1,6 +1,6 @@
-## How do you do, fellow? 👋
+# Hellow Fellow 👋
 
-I'm **Fardin Kamal** & I'm solving what is bothering me 🤙
+I'm **Fardin Kamal**
 
 Currently doing competitive programming and development 🧮 
 
@@ -8,6 +8,7 @@ Love to do cycling 🚲 ️and reading books 📚
 
 Most importantly, Batman fan 🦇
 
+[![roadmap.sh](https://roadmap.sh/card/wide/68125e467451c5834bddbee2?variant=dark&roadmaps=system-design%2Cbackend)](https://roadmap.sh)
 
 ## Who am I?
 - Student of Computer Science & Engineering at [Dhaka International University](https://diu.ac) 🎓
@@ -23,7 +24,7 @@ Did I mention I joined [DeepThought](https://deepthought.education/) as a Softwa
 - Build projects with `React` `Node.js` `MongoDB`
 
 My key area of expertise:
-- Developing Frontend & Backend
+- Developing Backend systems, little bit of frontend aswell
 - Designing wireframes, flow diagrams, and database schemas
 - Leading teams of tech & non-tech people
 - Managing projects
@@ -44,7 +45,7 @@ My key area of expertise:
   - **📦 Package managers**: `npm`
   - **📁 Version control**: `Git`
 - **Other**
-  - **📜 Languages**: `Go` `Java`
+  - **📜 Languages**: `Go` `Java` `Python` `C++`
 
 ### Soft Skills
 - **👨‍💻 Leadership**: Lead 4 teams of 10 tech & non-tech people
@@ -52,7 +53,7 @@ My key area of expertise:
 - **📊 Project Management**: Managed ~15 projects
 - **📞 Communication**: Communicating with stakeholders & C-level executives (CEO, CTO)
 - **👦 Mentorship**: Mentored 9 junior developers
-- **📢 Public Speaking**
+- **📢 Public Speaking**: Spoken at IOTB TECH Fellowship's "Code Smart, Load Fast: The New Standards for Web Applications.” event
 
 ## Reach out to me
 - [LinkedIn](https://www.linkedin.com/in/fardinkamal62/) 👨‍💼
