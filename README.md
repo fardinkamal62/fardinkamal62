@@ -8,7 +8,15 @@ Love to do cycling 🚲 ️and reading books 📚
 
 Most importantly, Batman fan 🦇
 
-[![roadmap.sh](https://roadmap.sh/card/wide/68125e467451c5834bddbee2?variant=dark&roadmaps=system-design%2Cbackend)](https://roadmap.sh)
+<div style="display: flex; justify-content: space-around;">
+  <a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinkamal62&layout=donut-vertical" alt="Top Langs" />
+    </a>
+    <a>
+        <img src="https://roadmap.sh/card/tall/68125e467451c5834bddbee2?variant=dark" alt="roadmap.sh" />
+    </a>
+</div>
+
 
 ## Who am I?
 - Student of Computer Science & Engineering at [Dhaka International University](https://diu.ac) 🎓
